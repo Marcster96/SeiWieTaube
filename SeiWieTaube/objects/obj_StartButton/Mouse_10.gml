@@ -1,0 +1,3 @@
+/// @description MouseInCheck
+
+MouseIsOn = true;
