@@ -1,12 +1,13 @@
 /// @description WatchingProcess
 
-Steps++;
+Steps+=1;
 
 if(Steps % room_speed == 0){
-	SecondsPlayed++;
+	SecondsPlayed+=1;
 	
 	if(SecondsPlayed % 60 == 0){
-		SecondsPlayed = 0;
-		MinutesPlayed++;
+			SecondsPlayed = 0;
+			MinutesPlayed+=1;
 	}
+	
 }

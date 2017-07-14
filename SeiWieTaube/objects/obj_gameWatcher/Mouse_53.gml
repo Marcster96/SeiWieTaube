@@ -1,5 +1,5 @@
 /// @description ClickToStart
 
-if(!GameStarted){
-	GameStarted = true;
+if(!global.GameStarted){
+	global.GameStarted = true;
 }

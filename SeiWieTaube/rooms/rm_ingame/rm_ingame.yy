@@ -221,7 +221,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_7937266F",
-                    "x": 0,
+                    "x": 32,
                     "y": 0,
                     "IsDnD": false,
                     "colour": {
@@ -234,7 +234,7 @@
                     "objId": "2e10543f-7f0b-4527-9f39-25d71b1058d6",
                     "rotation": 0,
                     "scaleX": 1,
-                    "scaleY": 1
+                    "scaleY": 1.04444444
                 },
                 {
                     "id": "288578aa-32c1-4110-a210-b01f1efabe8b",
@@ -258,7 +258,7 @@
                     "objId": "9cdb22a4-db05-4d2d-b864-49df3f02be10",
                     "rotation": 0,
                     "scaleX": 1,
-                    "scaleY": 1
+                    "scaleY": 1.04444444
                 },
                 {
                     "id": "b6111d03-2433-457b-aa23-953207f1fb2c",
@@ -387,7 +387,7 @@
             "hborder": 32,
             "hport": 768,
             "hspeed": -1,
-            "hview": 720,
+            "hview": 520,
             "inherit": false,
             "objId": "00000000-0000-0000-0000-000000000000",
             "vborder": 32,
@@ -398,7 +398,7 @@
             "xport": 0,
             "xview": 400,
             "yport": 0,
-            "yview": 0
+            "yview": 210
         },
         {
             "id": "f18f6440-2b2d-4c70-a7a8-a44c41d1c28c",
