@@ -5,13 +5,13 @@
     "name": "obj_despawner",
     "eventList": [
         {
-            "id": "a00b8a41-db8f-4f81-9c76-92eac1be71cb",
+            "id": "6828f4e7-ebcc-4bb4-b029-152c7a5dc37c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "67c81de1-86c8-4b49-8860-9976433b5366",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
             "m_owner": "2e10543f-7f0b-4527-9f39-25d71b1058d6"
         }
     ],
